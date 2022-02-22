@@ -15,8 +15,8 @@ document.addEventListener('mouseup', () => {
       let text = (window.getSelection().toString());
       console.log(text)
       navigator.clipboard.writeText(text).then(function() {
-      console.log('Async: Copying to clipboard was successful!');
+     
 }, function(err) {
-  console.error('Async: Could not copy text: ', err);
+  console.error(err);
 });
 }})
