@@ -1,4 +1,6 @@
 # Simple Automatic-Copier
 
-## Warning 
-This script doeas just work with text! It is going to be extended soon!
+# Warning ⚠️
+This code may contain (unlikely) a few bugs! Please contact me in therefor in the issues section! Thx a lot!
+
+(README CREATED SOON!)
